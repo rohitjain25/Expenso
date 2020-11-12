@@ -1,2 +1,2 @@
-# Expenso
-Expenso
+# Expenso - Track Your Expenses
+
